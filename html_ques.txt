@@ -1,0 +1,158 @@
+1. Which tag allows you to add a row in a table?
+a. <td> and </td>
+b. <cr> and </cr>
+c. <th> and </th>
+d. <tr> and </tr>
+$
+
+
+2. How can you make a bulleted list?
+a. <list>
+b. <nl>
+c. <ul>
+d. <ol>
+$
+
+
+3. How can you make a numbered list?
+a. <dl>
+b. <ol>
+c. <list>
+d. <ul>
+$
+
+
+4. How can you make an e-mail link?
+a. <a href=”xxx@yyy”>
+b. <mail href=”xxx@yyy”>
+c. <mail>xxx@yyy</mail>
+d. <a href=”mailto:xxx@yyy”>
+$
+
+
+5. What is the correct HTML for making a hyperlink?
+a. <a href=”http:// mcqsets.com”>ICT Trends Quiz</a>
+b. <a name=”http://mcqsets.com”>ICT Trends Quiz</a>
+c. <http://mcqsets.com</a>
+d. url=”http://mcqsets.com”>ICT Trends Quiz
+$
+
+
+6. Choose the correct HTML tag to make a text italic
+a. <ii>
+b. <italics>
+c. <italic>
+d. <i>
+$
+
+
+7. Choose the correct HTML tag to make a text bold?
+a. <b>
+b. <bold>
+c. <bb>
+d. <bld>
+$
+
+
+8. What is the correct HTML for adding a background color?
+a. <body color=”yellow”>
+b. <body bgcolor=”yellow”>
+c. <background>yellow</background>
+d. <body background=”yellow”>
+$
+
+
+9. Choose the correct HTML tag for the smallest size heading?
+a. <heading>
+b. <h6>
+c. <h1>
+d. <head>
+$
+
+
+10. What is the correct HTML tag for inserting a line break?
+a. <br>
+b. <lb>
+c. <break>
+d. <newline>
+$
+
+
+11. What does vlink attribute mean?
+a. visited link
+b. virtual link
+c. very good link
+d. active link
+$
+
+
+12. Which attribute is used to name an element uniquely?
+a. class
+b. id
+c. dot
+d. all of above
+$
+
+
+13. Which tag creates a check box for a form in HTML?
+a. <checkbox>
+b. <input type=”checkbox”>
+c. <input=checkbox>
+d. <input checkbox>
+$
+
+
+14. To create a combo box (drop down box) which tag will you use?
+a. <select>
+b. <list>
+c. <input type=”dropdown”>
+d. all of above
+$
+
+
+15. Which of the following is not a pair tag?
+a. <p>
+b. < u >
+c. <i>
+d. <img>
+$
+
+
+16. To create HTML document you require a
+a. web page editing software
+b. High powered computer
+c. Just a notepad can be used
+d. None of above
+$
+
+
+17. The special formatting codes in HTML document used to present content are
+a. tags
+b. attributes
+c. values
+d. None of above
+$
+
+
+18. HTML documents are saved in
+a. Special binary format
+b. Machine language codes
+c. ASCII text
+d. None of above
+$
+
+
+19. Some tags enclose the text. Those tags are known as
+a. Couple tags
+b. Single tags
+c. Double tags
+d. Pair tags
+$
+
+
+20. The _____ character tells browsers to stop tagging the text
+a. ?
+b. /
+c. >
+d. %
+$

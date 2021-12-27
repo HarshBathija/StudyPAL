@@ -1,0 +1,139 @@
+1.To create HTML document you require a:
+a. web page editing software
+b. High powered computer
+c. Just a notepad can be used
+d. None of above
+$
+
+2.The special formatting codes in HTML document used to present content are
+a. tags
+b. attributes
+c. values
+d. None of above
+$
+
+3.HTML documents are saved in
+a. Special binary format
+b. Machine language codes
+c. ASCII text
+d. None of above
+$
+
+4.Some tags enclose the text. Those tags are known as
+a. Couple tags
+b. Single tags
+c. Double tags
+d. Pair tags
+$
+
+5.The _____ character tells browsers to stop tagging the text
+a. ?
+b. /
+c. >
+d. %
+$
+
+6.In HTML document the tags
+a. Should be written in upper case
+b. should be written in lower case
+c. should be written in proper case
+d. can be written in both uppercase or lowercase
+$
+
+7.Marquee is a tag in HTML to
+a. mark the list of items to maintain inqueue
+b. Mark the text so that it is hidden in browser
+c. Display text with scrolling effect
+d. None of above
+$
+
+8.There are ____ different of heading tags in HTML
+a. 4
+b. 5
+c. 6
+d. 7
+$
+
+9.To create a blank line in your web page
+a. press Enter two times
+b. press Shift + Enter
+c. insert <BR> tag
+d. insert <BLINE>
+$
+
+10.Which of the following is not a style tag?
+a. <b>
+b. <tt>
+c. <i>
+d. All of above are style tags
+$
+
+11.The way the browser displays the object can be modified by _____
+a. attributes
+b. parameters
+c. modifiers
+d. None of above
+$
+
+12.Which of the following HTML code is valid?
+a. <font colour=”red”>
+b. <font color=”red”>
+c. <red><font>
+d. All of above are style tags
+$
+
+13.Which of the following is an attribute related to font tag?
+a. size
+b. face
+c. color
+d. All of above are style tags
+$
+
+14.HTML supports
+a. ordered lists
+b. unordered lists
+c. both type of lists
+d. does not support those types
+$
+
+15.What tag is used to list individual items of an ordered list?
+a. LI
+b. OL
+c. UL
+d. None of above
+$
+
+16.When should you use path along with file name of picture in IMG tag?
+a. path is optional and not necessary
+b. when the location of image file and html file are different
+c. when image file and html file both are on same location
+d. path is always necessary when inserting image
+$
+
+17.Which of the following is not a valid alignment attribute?
+a. Left
+b. Right
+c. Top
+d. All of above
+$
+
+18.Which attribute is used with img tag to display the text if image could not load in browser?
+a. description
+b. name
+c. alt
+d. id
+$
+
+19.Which attribute can be used with BODY tag to set background color green?
+a. background=”green”
+b. bgcolor=”green”
+c. vlink=”green”
+d. None of above
+$
+
+20.Which attribute you’ll use with TD tag to merge two cells horizontally?
+a. merge=colspan2
+b. rowspan=2
+c. colspan=2
+d. merge=row2
+$

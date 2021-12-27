@@ -1,0 +1,159 @@
+Files
+
+1. To open a file c:\scores.txt for reading, we use
+a) infile = open(“c:\scores.txt”, “r”)
+b) infile = open(“c:\\scores.txt”, “r”)
+c) infile = open(file = “c:\scores.txt”, “r”)
+d) infile = open(file = “c:\\scores.txt”, “r”)
+$
+
+2. To open a file c:\scores.txt for writing, we use
+a) outfile = open(“c:\scores.txt”, “w”)
+b) outfile = open(“c:\\scores.txt”, “w”)
+c) outfile = open(file = “c:\scores.txt”, “w”)
+d) outfile = open(file = “c:\\scores.txt”, “w”)
+$
+
+3. To open a file c:\scores.txt for appending data, we use
+a) outfile = open(“c:\\scores.txt”, “a”)
+b) outfile = open(“c:\\scores.txt”, “rw”)
+c) outfile = open(file = “c:\scores.txt”, “w”)
+d) outfile = open(file = “c:\\scores.txt”, “w”)
+$
+
+4. Which of the following statements are true? (multiple answers allowed)
+a) A. When you open a file for reading, if the file does not exist, an error occurs.
+b) When you open a file for reading, if the file does not exist, the program will open an empty file.
+c) When you open a file for writing, if the file does not exist, a new file is created.
+d) When you open a file for writing, if the file exists, the existing file is overwritten with the new file.
+$
+
+5. To read two characters from a file object infile, we use
+a) infile.read(2)
+b) infile.read()
+c) infile.readline()
+d) infile.readlines()
+$
+
+6. To read the entire remaining contents of the file as a string from a file object infile, we use
+a) infile.read(2)
+b) infile.read()
+c) infile.readline()
+d) infile.readlines()
+$
+
+7. What is the output?
+
+    f = None
+
+     
+
+    for i in range (5):
+
+        with open("data.txt", "w") as f:
+
+            if i > 2:
+
+                break
+
+     
+
+    print f.closed
+
+a) True
+b) False
+c) None
+d) Error
+$
+
+8.To read the next line of the file from a file object infile, we use
+a) infile.read(2)
+b) infile.read()
+c) infile.readline()
+d) infile.readlines()
+$
+
+9. To read the remaining lines of the file from a file object infile, we use
+a) infile.read(2)
+b) infile.read()
+C) infile.readline()
+d) infile.readlines()
+$
+
+10. The readlines() method returns
+a) str
+b) a list of lines
+c) a list of single characters
+d) a list of integers
+$
+
+11.Which are the two built-in functions to read a line of text from standard input, which by default comes from the keyboard?
+a) Raw_input
+b) Inputer
+c) Scan
+d) Scanner
+$
+
+12.Which one of the following is not attributes of file
+a) closed
+b) softspace
+c) rename
+d) mode
+$
+
+13.What is the use of tell() method in python?
+a) tells you the current position within the file
+b) tells you the end position within the file
+c) tells you the file is opened or not
+d) None of the mentioned
+$
+
+14.What is the current syntax of rename() a file?
+a) rename(current_file_name, new_file_name)
+b) rename(new_file_name, current_file_name,)
+c) rename(()(current_file_name, new_file_name))
+d) None of the mentioned
+$
+
+15.What is the current syntax of remove() a file?
+a) remove(file_name)
+b) remove(new_file_name, current_file_name,)
+c) remove(() , file_name))
+d) None of the mentioned
+$
+
+16.What is the use of seek() method in files?
+a) sets the file’s current position at the offset
+b) sets the file’s previous position at the offset
+c) sets the file’s current position within the file
+d) None of the mentioned
+$
+
+17. What is the use of truncate() method in file?
+a) truncates the file’s size
+b) deletes the content of the file
+c) deletes the file’s size
+d) None of the mentioned
+$
+
+18.Which is/are the basic I/O connections in file?
+a) Standard Input
+b) Standard Output
+c) Standard Errors
+d) All of the above
+e) None of the above
+$
+
+19.Which of the following mode will refer to binary data?
+a) r
+b) w
+c) +
+d) b
+$
+
+20.What is the pickling?
+a) It is used for object serialization
+b) It is used for object deserialization
+c) None of the mentioned
+$
+

@@ -1,0 +1,89 @@
+~1.Answer:c
+Explanation:None.
+ 
+
+~2.Answer:a
+Explanation:None.
+ 
+
+~3.Answer:a
+Explanantion:* is to be grouped with the variables not the data types.
+ 
+
+~4.Answer:d
+Explanation:A pointer can be in only 3 states a,b and c.
+ 
+
+~5.Answer:c
+Explanation:dp is initialized int value of i.
+ 
+
+~6.Answer:b
+Explanation:Assigning to refrence changes the object to which the refrence is bound.
+ 
+
+~7.Answer:d
+Explanation:Array element cannot be address of auto variable. It can be address of static or extern variables.
+ 
+
+~8.Answer:c
+Explanation:None.
+ 
+
+~9.Answer:a
+Explanation:Each time we are assigning 65 + i. In first iteration i = 0 and 65 is assigned. So it will print from A to J.
+  g++ point1.cpp
+  a.out
+ABCDEFGHIJ
+ 
+
+~10.Answer:b
+Explanation:In the above declaration the variable p is array not pointer.
+ 
+
+~11.Answer:b
+Explanation:Size of any type of pointer is 4 bytes in 32-bit platforms.
+ 
+
+~12.Answer:b
+Explanation:a[1][2] means 1 * (4)+2 = 6th element of an array staring from zero.
+Output:
+  g++ point.cpp
+  a.out
+21 21 21
+ 
+
+~13.Answer:b
+Explanation:In this program, we are making the pointer point to next value and printing it.
+  g++ point3.cpp
+  a.out
+5
+ 
+
+~14.Answer:c
+EXplantion:None.
+ 
+
+~15.Answer:d
+Explanation:Because these are the types used to declare variables and so these can be declared as constants.
+ 
+
+~16.Answer:c
+Explanation:The const will declare with a specific type values and #define is used to declare user definied constants.
+ 
+
+~17.Answer:d
+Explantion:None.
+ 
+
+~18.Answer:c
+Explantion:Because the const is used to declare non-changable values only.
+ 
+
+~19.Answer:a
+Explanation:None.
+ 
+
+~20.Answer:a
+Explanation:It can turn this as wide character instead of narrow characters.
+ 

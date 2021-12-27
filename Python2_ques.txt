@@ -1,0 +1,211 @@
+functions
+
+1. Python supports the creation of anonymous functions at runtime, using a construct called __________?
+a) Lambda
+b) pi
+c) anonymous
+d) None of the mentioned
+$
+
+2.What is the output of this program?
+
+    y = 6
+
+     
+
+    z = lambda x: x * y
+
+    print z(8)
+
+a) 48
+b) 14
+c) 64
+d) None of the mentioned
+$
+
+3.Is Lambda contains return statements
+a) True
+b) False
+$
+
+4.Lambda is a statement.
+a) True
+b) False
+$
+
+5.Lambda contains block of statements
+a) True
+b) False
+$
+
+6.What is the output of below program?
+
+    def writer():
+
+    	title = 'Sir'
+
+    	name = (lambda x:title + ' ' + x)
+
+    	return name
+
+     
+
+    who = writer()
+
+    who('Arthur')
+
+a) Arthur Sir
+b) Sir Arthur
+c) Arthur
+d) None of the mentioned
+$
+
+7.Which are the advantages of functions in python?
+a) Reducing duplication of code
+b) Decomposing complex problems into simpler pieces
+c) Improving clarity of the code
+d) Reuse of code
+e) Information hiding
+f) All of the mentioned
+$
+
+8.What are the two types of functions?(mutliple answer possible)
+a) Custom function
+b) Built-in function
+c) User-Defined function
+d) System function
+$
+
+9.What is called when a function is defined inside a class?
+a) Module
+b) Class
+c) Another function
+d) Method
+$
+
+10.Which of the following is the use of id() function in python?
+a) Id returns the identity of the object
+b) Every object doesn’t have a unique id
+c) All of the mentioned
+d) None of the mentioned
+$
+
+11.Which of the following refers to mathematical function?
+a) sqrt
+b) rhombus
+c) add
+d) rhombus
+$
+
+12.Which of the following is the use of function in python?
+a) Functions are reusable pieces of programs
+b) Functions don’t provide better modularity for your application
+c) you can’t also create your own functions
+d) All of the mentioned
+$
+
+13.What is the output of below program?
+
+    def say(message, times = 1):
+
+        print(message * times)
+
+     
+
+    say('Hello')
+
+    say('World', 5)
+
+a) Hello
+WorldWorldWorldWorldWorld
+b) Hello
+World 5
+c) Hello
+World,World,World,World,World
+d) Hello
+d
+$
+
+14.Which of the following is a features of DocString?
+a) Provide a convenient way of associating documentation with Python modules, functions, classes, and methods
+b) All functions should have a docstring
+c) Docstrings can be accessed by the __doc__ attribute on objects
+d) All of the mentioned
+$
+
+15.What is the output of the below program?
+
+    def C2F(c):
+
+        return c * 9/5 + 32
+
+    print C2F(100)
+
+    print C2F(0)
+
+a) 212
+32
+b) 314
+24
+c) 567
+98
+d) None of the mentioned
+$
+
+16.What is the output of below program?
+
+    lamb = lambda x: x ** 3
+
+    print(lamb(5))
+
+a) 15
+b) 555
+c) 125
+d) None of the mentioned
+$
+
+17.What is the output of this program?
+
+    min = (lambda x, y: x if x < y else y)
+
+     min(101*99, 102*98)
+
+a) 9997
+b) 9999
+c) 9996
+d) None of the mentioned
+$
+
+18.Which keyword is use for function?
+a) Fun
+b) Define
+c) Def
+d) Function
+$
+
+19.What is the output of the below program?
+
+    def sayHello():
+
+        print('Hello World!') 
+
+    sayHello() 
+
+    sayHello()
+
+a) Hello World!
+Hello World!
+b) ‘Hello World!’
+‘Hello World!’
+c) Hello
+Hello
+d) None of the mentioned
+$
+
+20.Where is function defined?
+a) Module
+b) Class
+c) Another function
+d) None of the mentioned
+View Answer
+$

@@ -1,0 +1,139 @@
+1. A webpage displays a picture. What tag was used to display that picture?
+a. picture
+b. mage
+c. img
+d. src
+$
+
+2. <b> tag makes the enclosed text bold. What is other tag to make text bold?
+a. <strong>
+b. <dar>
+c. <black>
+d. <emp>
+$
+
+3. Tags and test that are not directly displayed on the page are written in _____ section.
+a. <html>
+b. <head>
+c. <title>
+d. <body>
+$
+
+4. Which tag inserts a line horizontally on your web page?
+a. <hr>
+b. <line>
+c. <line direction=”horizontal”>
+d. <tr>
+$
+
+5. What should be the first tag in any HTML document?
+a. <head>
+b. <title>
+c. <html>
+d. <document>
+$
+
+6. Which tag allows you to add a row in a table?
+a. <td> and </td>
+b. <cr> and </cr>
+c. <th> and </th>
+d. <tr> and </tr>
+$
+
+7. How can you make a bulleted list?
+a. <list>
+b. <nl>
+c. <ul>
+d. <ol>
+$
+
+8. How can you make a numbered list?
+a. <dl>
+b. <ol>
+c. <list>
+d. <ul>
+$
+
+9. How can you make an e-mail link?
+a. <a href=”xxx@yyy”>
+b. <mail href=”xxx@yyy”>
+c. <mail>xxx@yyy</mail>
+d. <a href=”mailto:xxx@yyy”>
+$
+
+10. What is the correct HTML for making a hyperlink?
+a. <a href=”http://mcqsets.com”>MCQ Sets Quiz</a>
+b. <a name=”http://mcqsets.com”>MCQ Sets Quiz</a>
+c. <http://mcqsets.com</a>
+d. url=”http://mcqsets.com”>MCQ Sets Quiz
+$
+
+11. Choose the correct HTML tag to make a text italic
+a. <ii>
+b. <italics>
+c. <italic>
+d. <i>
+$
+
+12. Choose the correct HTML tag to make a text bold?
+a. <b>
+b. <bold>
+c. <bb>
+d. <bld>
+$
+
+13. What is the correct HTML for adding a background color?
+a. <body color=”yellow”>
+b. <body bgcolor=”yellow”>
+c. <background>yellow</background>
+d. <body background=”yellow”>
+$
+
+14. Choose the correct HTML tag for the smallest size heading?
+a. <heading>
+b. <h6>
+c. <h1>
+d. <head>
+$
+
+15. What is the correct HTML tag for inserting a line break?
+a. <br>
+b. <lb>
+c. <break>
+d. <newline>
+$
+
+16. What does vlink attribute mean?
+a. visited link
+b. virtual link
+c. very good link
+d. active link
+$
+
+17. Which attribute is used to name an element uniquely?
+a. class
+b. d
+c. dot
+d. all of above
+$
+
+18. Which tag creates a check box for a form in HTML?
+a. <checkbox>
+b. <input type=”checkbox”>
+c. <input=checkbox>
+d. <input checkbox>
+$
+
+19. To create a combo box (drop down box) which tag will you use?
+a. <select>
+b. <list>
+c. <input type=”dropdown”>
+d. all of above
+$
+
+20. Which of the following is not a pair tag?
+a. <p>
+b. < u >
+c. <i>
+d. <img>
+$
